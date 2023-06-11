@@ -1,8 +1,4 @@
-,---.                            ,-----.           ,--.    ,--.        
-'   .-' ,--,--,  ,---. ,--.   ,--.|  |) /_  ,---. ,-'  '-.  `--' ,---.  
-`.  `-. |      \| .-. ||  |.'.|  ||  .-.  \| .-. :'-.  .-'  ,--.| .-. | 
-.-'    ||  ||  |' '-' '|   .'.   ||  '--' /\   --.  |  |.--.|  |' '-' ' 
-`-----' `--''--' `---' '--'   '--'`------'  `----'  `--''--'`--' `---' 
+What is Snowbet.io ?
 
 Snowbet.io is an innovative online platform that allows users to engage in speculative trading by predicting the future prices of various cryptocurrencies. The site provides an exciting and interactive way for individuals interested in cryptocurrency to test their forecasting skills and potentially earn profits based on their predictions.
 
